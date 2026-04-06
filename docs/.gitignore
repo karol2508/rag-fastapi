@@ -1,5 +1,0 @@
-.env
-docs/
-__pycache__/
-faiss_index/
-.DS_Store
